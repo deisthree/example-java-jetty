@@ -5,7 +5,7 @@ This guide will walk you through deploying a Java application on [Deis Workflow]
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-java-jetty.git
+$ git clone https://github.com/deisthree/example-java-jetty.git
 $ cd example-java-jetty
 $ deis create
 Creating Application... done, created vulcan-keypunch
@@ -57,8 +57,8 @@ Release v2 on vulcan-keypunch-web-514879262-7p9hd
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
